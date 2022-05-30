@@ -32,6 +32,6 @@
 | May-26 | Day 24 <br> - [Blind XSS in app.pullrequest.com/████████ via /reviews/ratings/{uuid}](https://hackerone.com/reports/1558010) <br>  - [IDOR when editing users leads to Account Takeover without User Interaction at CrowdSignal](https://hackerone.com/reports/915114) <br>  - [Race Condition when following a user](https://hackerone.com/reports/927384) <br>  - Hunting <br> |
 | May-27 | Day 25 <br> - Hunting on private programs |
 | May-28 | Day 26 <br> - Hunting on private programs |
-| May-29 | Day 27 <br> - []() <br>  - []() <br>  - []() <br>  - []() <br>  - []() <br> |
-| May-30 | Day 28 <br> - []() <br>  - []() <br>  - []() <br>  - []() <br>  - []() <br> |
-| May-31 | Day 29 <br> - []() <br>  - []() <br>  - []() <br>  - []() <br>  - []() <br> |
+| May-29 | Break |
+| May-30 | Break |
+| May-31 | Day 27 <br> - []() <br>  - []() <br>  - []() <br>  - []() <br>  - []() <br> |
