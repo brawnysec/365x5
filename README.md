@@ -32,6 +32,5 @@
 | May-26 | Day 24 <br> - [Blind XSS in app.pullrequest.com/████████ via /reviews/ratings/{uuid}](https://hackerone.com/reports/1558010) <br>  - [IDOR when editing users leads to Account Takeover without User Interaction at CrowdSignal](https://hackerone.com/reports/915114) <br>  - [Race Condition when following a user](https://hackerone.com/reports/927384) <br>  - Hunting <br> |
 | May-27 | Day 25 <br> - Hunting on private programs |
 | May-28 | Day 26 <br> - Hunting on private programs |
-| May-29 | Break |
-| May-30 | Break |
-| May-31 | Day 27 <br> - []() <br>  - []() <br>  - []() <br>  - []() <br>  - []() <br> |
+| May-29 - June 2 | Burnout |
+| June-3 | Day 27 <br> - [How I Found a company’s internal S3 Bucket with 41k Files](https://infosecwriteups.com/how-i-found-a-companys-internal-s3-bucket-with-41k-files-94b453e588b5) <br>  - [How I Get Bounty From Takeover Account](https://medium.com/@ryuukhagetsu/how-i-get-bounty-from-takeover-account-ed17cd838b2a) <br>  - [Breaking Reverse Proxy Parser Logic](https://www.secjuice.com/breaking-parser-logic-gain-access-to-nginx-plus-api-read-write-upstreams/) <br>  - []() <br>  - []() <br> |
